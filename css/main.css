@@ -265,6 +265,12 @@ img {
   }
 }
 
+/* --- Modifying color bars of button --- */
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: {{ site.navbar-text-col }};
+}
+
 /* --- Footer --- */
 
 footer {
