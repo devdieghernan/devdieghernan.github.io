@@ -1,8 +1,8 @@
 # --- General options --- #
 
-url: "https://dieghernan.github.io"
+url: "https://devdieghernan.github.io"
 baseurl: ""
-github_repo: "https://github.com/dieghernan/dieghernan.github.io/"
+github_repo: "https://github.com/devdieghernan/devdieghernan.github.io"
 
 # Name of website
 title: One world
@@ -33,7 +33,7 @@ avatar: "/img/avatar-icon.png"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-navbar-col: "#008080"
+navbar-col: "#ff0000"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#00A0A0"
 page-col: "#FFFFFF"
@@ -85,7 +85,7 @@ share-links-active:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-139034853-1"
+# google_analytics: "UA-139034853-1"
 
 # Google Tag Manager ID
 #gtm: ""
